@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="automation_pipeline_transformer" label="TestObjects" max_length="40" name="x_247989_test_app_testobjects" type="collection">
+        <element label="description" max_length="1000" name="description" type="string"/>
+    </element>
+</database>

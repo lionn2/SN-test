@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>TestObjects</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>TestObjects</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Automation Pipeline Transformer" name="Automation Pipeline Transformer">318eb3d5ff0231002af4ffffffffffc8</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-05 13:06:41</sys_created_on>
+        <sys_id>466be726dbc31300c1e36a49489619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestObjects</sys_name>
+        <sys_package display_value="Test app" source="x_247989_test_app">5b6a6be2dbc31300c1e36a494896195b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test app">5b6a6be2dbc31300c1e36a494896195b</sys_scope>
+        <sys_update_name>sys_wizard_answer_466be726dbc31300c1e36a49489619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-05 13:06:41</sys_updated_on>
+        <table/>
+        <target_url>x_247989_test_app_testobjects.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
